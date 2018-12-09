@@ -1,0 +1,7 @@
+D:\Profiles\saa9310\AdegunS-HW02\AdegunS-HW1\bin\Debug\AdegunS-HW1.exe.config
+D:\Profiles\saa9310\AdegunS-HW02\AdegunS-HW1\bin\Debug\AdegunS-HW1.exe
+D:\Profiles\saa9310\AdegunS-HW02\AdegunS-HW1\bin\Debug\AdegunS-HW1.pdb
+D:\Profiles\saa9310\AdegunS-HW02\AdegunS-HW1\obj\Debug\AdegunS-HW3.csprojAssemblyReference.cache
+D:\Profiles\saa9310\AdegunS-HW02\AdegunS-HW1\obj\Debug\AdegunS-HW3.csproj.CoreCompileInputs.cache
+D:\Profiles\saa9310\AdegunS-HW02\AdegunS-HW1\obj\Debug\AdegunS-HW1.exe
+D:\Profiles\saa9310\AdegunS-HW02\AdegunS-HW1\obj\Debug\AdegunS-HW1.pdb

@@ -1,0 +1,14 @@
+D:\Profiles\saa9310\AdegunS-HW09\AdegunS-HW09\bin\Debug\AdegunS-HW1.exe.config
+D:\Profiles\saa9310\AdegunS-HW09\AdegunS-HW09\bin\Debug\AdegunS-HW1.exe
+D:\Profiles\saa9310\AdegunS-HW09\AdegunS-HW09\bin\Debug\AdegunS-HW1.pdb
+D:\Profiles\saa9310\AdegunS-HW09\AdegunS-HW09\obj\Debug\AdegunS-HW9.csprojAssemblyReference.cache
+D:\Profiles\saa9310\AdegunS-HW09\AdegunS-HW09\obj\Debug\AdegunS-HW9.csproj.CoreCompileInputs.cache
+D:\Profiles\saa9310\AdegunS-HW09\AdegunS-HW09\obj\Debug\AdegunS-HW1.exe
+D:\Profiles\saa9310\AdegunS-HW09\AdegunS-HW09\obj\Debug\AdegunS-HW1.pdb
+D:\Profiles\saa9310\AdegunS-HW01\AdegunS-HW09\bin\Debug\AdegunS-HW1.exe.config
+D:\Profiles\saa9310\AdegunS-HW01\AdegunS-HW09\bin\Debug\AdegunS-HW1.exe
+D:\Profiles\saa9310\AdegunS-HW01\AdegunS-HW09\bin\Debug\AdegunS-HW1.pdb
+D:\Profiles\saa9310\AdegunS-HW01\AdegunS-HW09\obj\Debug\AdegunS-HW9.csprojAssemblyReference.cache
+D:\Profiles\saa9310\AdegunS-HW01\AdegunS-HW09\obj\Debug\AdegunS-HW9.csproj.CoreCompileInputs.cache
+D:\Profiles\saa9310\AdegunS-HW01\AdegunS-HW09\obj\Debug\AdegunS-HW1.exe
+D:\Profiles\saa9310\AdegunS-HW01\AdegunS-HW09\obj\Debug\AdegunS-HW1.pdb
